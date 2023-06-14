@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "./lib",
+    "target": "es6",
+    "jsx": "react",
+    "declaration": true,
+    "allowJs": false,
+    "esModuleInterop": true
+    // ... other options
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist", "lib"]
+}

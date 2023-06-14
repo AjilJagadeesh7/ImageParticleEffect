@@ -1,0 +1,12 @@
+node_modules/
+lib/
+dist/
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency lock files
+package-lock.json
+yarn.lock
