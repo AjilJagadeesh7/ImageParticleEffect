@@ -121,7 +121,7 @@ const ParticleImage = ({
     }
   }, []);
 
-  return <canvas width={width} height={height} ref={canvasRef}></canvas>;
+  return <canvas ref={canvasRef}></canvas>;
 };
 
 export default ParticleImage;
