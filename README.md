@@ -6,16 +6,17 @@ A React component that applies a particle effect to an image.
 
 You can install the package using npm:
 
-``shell
+```shell
 npm install imageparticleeffect
+```
 
 ## Usage
 
 Import the `ImageParticleEffect` component and use it in your React application:
 
 ```jsx
-import React from 'react';
-import ImageParticleEffect from 'imageparticleeffect';
+import React from "react";
+import ImageParticleEffect from "imageparticleeffect";
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
 }
 
 export default App;
+```
 
 ## Props
 
@@ -56,4 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Ajil Jagadeesh
 
 - GitHub: [ajiljagadeesh07](https://github.com/ajiljagadeesh07)
+
+```
+
 ```
