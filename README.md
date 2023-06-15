@@ -6,7 +6,7 @@ A React component that applies a particle effect to an image.
 
 You can install the package using npm:
 
-````shell
+``shell
 npm install imageparticleeffect
 
 ## Usage
@@ -56,4 +56,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Ajil Jagadeesh
 
 - GitHub: [ajiljagadeesh07](https://github.com/ajiljagadeesh07)
-````
+```
