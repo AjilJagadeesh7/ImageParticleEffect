@@ -57,5 +57,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Ajil Jagadeesh
 
-- GitHub: [ajiljagadeesh07](https://github.com/ajiljagadeesh7)
+- GitHub: [ajiljagadeesh7](https://github.com/ajiljagadeesh7)
 - Repo: [ImageParticleEffect](https://github.com/AjilJagadeesh7/ImageParticleEffect)
