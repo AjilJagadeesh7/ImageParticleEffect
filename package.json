@@ -1,6 +1,6 @@
 {
   "name": "imageparticleeffect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A react component that accepts images as props and shows a particle animation on hover",
   "main": "lib/ParticleImage.js",
   "types": "lib/ParticleImage.d.ts",
