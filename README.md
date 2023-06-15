@@ -58,7 +58,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Ajil Jagadeesh
 
 - GitHub: [ajiljagadeesh07](https://github.com/ajiljagadeesh07)
-
-```
-
-```
